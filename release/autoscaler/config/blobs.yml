@@ -1,0 +1,17 @@
+---
+cf_cli/all_open.json:
+  object_id: 217a8c8e-0aa2-4d31-92e9-ebe0c503f029
+  sha: 5915785ed61178f2a4988de73517c1ef986146de
+  size: 80
+cf_cli/cf-linux-amd64.tgz:
+  object_id: 6fd8c325-eb26-42d6-9545-ab69155093d1
+  sha: 82728ff9fed87554a14a2e5d2b4b743b8f2885ae
+  size: 5088758
+custom_app_autoscaler/appscaler-demo-0.0.1-SNAPSHOT.jar:
+  object_id: 8fafb032-007a-4095-976d-018b1423e569
+  sha: 723e8be2aa27ebb33d78359a21e04ddca39829af
+  size: 31299904
+custom_app_autoscaler/manifest.yml:
+  object_id: 6f04ce10-025f-4eaf-9740-557d639d489c
+  sha: 6df3c7b8778ed4fa688f94408e340fea3c1f6ec7
+  size: 44

@@ -1,0 +1,8 @@
+---
+name: custom_app_autoscaler
+
+dependencies: []
+
+files:
+- custom_app_autoscaler/appscaler-demo-0.0.1-SNAPSHOT.jar
+- custom_app_autoscaler/manifest.yml

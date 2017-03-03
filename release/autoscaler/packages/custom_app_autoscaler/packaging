@@ -1,0 +1,5 @@
+# abort script on any command that exit with a non zero value
+set -e
+
+cp custom_app_autoscaler/appscaler-demo-0.0.1-SNAPSHOT.jar ${BOSH_INSTALL_TARGET}
+cp custom_app_autoscaler/manifest.yml ${BOSH_INSTALL_TARGET}

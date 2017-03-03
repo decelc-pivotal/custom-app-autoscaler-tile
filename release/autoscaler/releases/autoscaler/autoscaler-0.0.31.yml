@@ -1,0 +1,25 @@
+---
+packages:
+- name: cf_cli
+  version: 3cf85af7e0ddc56e483736cae00611c2923b2c50
+  fingerprint: 3cf85af7e0ddc56e483736cae00611c2923b2c50
+  sha1: d855375a7d9896a1d4e391cc587207ed5cf7097b
+  dependencies: []
+- name: custom_app_autoscaler
+  version: 2cb0166b8e4eeaf341c38faf13565a916d652ed1
+  fingerprint: 2cb0166b8e4eeaf341c38faf13565a916d652ed1
+  sha1: 1b40b89bcfb9e0cda076ae5a9f91b9ec44eb1a57
+  dependencies: []
+jobs:
+- name: delete-all
+  version: e9eae042dcc15760ca297429170f1d7aea8df802
+  fingerprint: e9eae042dcc15760ca297429170f1d7aea8df802
+  sha1: 1f5929a2a47ffb7593fd6a1b72f76988967b0874
+- name: deploy-all
+  version: 45a905f13d9e013876bc8c2eb946cc1a6965899f
+  fingerprint: 45a905f13d9e013876bc8c2eb946cc1a6965899f
+  sha1: d7c599aff55c5f044061c3350bfccbce6b7b2367
+commit_hash: '00000000'
+uncommitted_changes: false
+name: autoscaler
+version: 0.0.31
